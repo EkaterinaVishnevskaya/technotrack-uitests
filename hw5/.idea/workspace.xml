@@ -29,8 +29,17 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state relative-caret-position="221">
+              <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-11628">
+              <caret line="17" column="51" lean-forward="true" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -51,7 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClickMorePetsNews_Test.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ClickMorePetsNews_Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/mail/example/ClickMorePetsNews_Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -64,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/mail/example/pages/PetsNewsPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="246">
-              <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+              <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#732#733#0" expanded="true" />
@@ -109,12 +118,12 @@
         <option value="$PROJECT_DIR$/src/main/java/ru/mail/example/navigation/PageObject.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/mail/example/pages/CarsCatalogPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/mail/example/ClickCatsPetsMilotaFilterTab_Test.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/ru/mail/example/pages/PetsNewsPae.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/mail/example/steps/CarsCatalogPageSteps.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/mail/example/pages/PetsNewsPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/mail/example/steps/PetsNewsPageSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/mail/example/ClickMorePetsNews_Test.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -150,7 +159,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="295" />
     <option name="y" value="105" />
     <option name="width" value="1300" />
@@ -171,6 +180,11 @@
             <path>
               <item name="hw5" type="b2602c69:ProjectViewProjectNode" />
               <item name="hw5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw5" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hw5" type="b2602c69:ProjectViewProjectNode" />
@@ -377,7 +391,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/final-ui-track" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -426,6 +440,7 @@
               <list>
                 <option value="-Dtest=ClickMorePetsNews_Test" />
                 <option value="-Dthread.count=1" />
+                <option value="-DforkCount=0" />
                 <option value="-Dwebdriver.driver=chrome" />
                 <option value="-Dwebdriver.chrome.driver=C:\drivers\chromedriver.exe" />
                 <option value="test" />
@@ -481,10 +496,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20260000" />
+    <option name="totallyTimeSpent" value="21953000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -495,11 +511,11 @@
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32884097" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16442953" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16442953" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32884097" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -735,13 +751,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/mail/example/steps/PetsNewsPageSteps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -759,7 +768,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/mail/example/pages/PetsNewsPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
-          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#732#733#0" expanded="true" />
@@ -776,6 +785,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11628">
+          <caret line="17" column="51" lean-forward="true" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
         </state>
       </provider>
     </entry>
